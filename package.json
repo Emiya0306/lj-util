@@ -1,0 +1,23 @@
+{
+  "name": "lj-util",
+  "version": "1.0.0",
+  "description": "My personal util library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emiya0306/lj-util.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emiya0306/lj-util/issues"
+  },
+  "homepage": "https://github.com/Emiya0306/lj-util#readme",
+  "dependencies": {
+    "log4js": "^1.0.1",
+    "moment": "^2.15.2"
+  }
+}
